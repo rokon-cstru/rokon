@@ -7,4 +7,4 @@ Author: Md. Rokanujjaman, rokon_cstru@yahoo.com
 Maintainer: Md. Rokanujjaman, rokon_cstru@yahoo.com
 Description: SumR function will calculate total of a numeric vector in R programming and meanX will calculate mean of a numeric vector in C programming
 Depends: Rcpp
-License: GPL2
+License: GPL-2
